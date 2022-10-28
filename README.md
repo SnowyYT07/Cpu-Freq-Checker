@@ -13,6 +13,7 @@ Just use
 chmod +x "Install(debian).sh" ## In case you use debian
 chmod +x "Install(Alphine).sh" ## In case you use Alphine Linux
 ```
+```
 ./Install(debian).sh
 OR
 ./Install(Alphine).sh
